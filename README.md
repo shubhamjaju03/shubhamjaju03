@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shubhamjaju03
-- 👀 I’m interested in Gaming And Creating youtube content
+- 👀 I’m interested to gather knowledge as much as i can
 - 🌱 I’m currently learning Btech In Information Technology 
-- 💞️ I’m looking to collaborate on gaming
 - 📫 How to reach me - sjaju589@gmail.com
 
 <!---
