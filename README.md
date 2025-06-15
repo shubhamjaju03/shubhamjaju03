@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhamjaju03
+- 👋 Hi, I’m Shubham Jaju
 - 👀 I’m interested to gather knowledge as much as i can
 - 🌱 I’m currently learning Btech In Information Technology 
 - 📫 How to reach me - sjaju589@gmail.com
