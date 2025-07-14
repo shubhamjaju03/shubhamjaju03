@@ -1,12 +1,3 @@
-<!---
-shubhamjaju03/shubhamjaju03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<div align="center">
-
-  <!-- Profile Picture -->
-  <img src="https://avatars.githubusercontent.com/u/143123082?v=4" width="120px" alt="Shubham Jaju" />
 
   <!-- Name -->
   <h1>Shubham Jaju</h1>
