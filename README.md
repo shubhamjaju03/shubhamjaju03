@@ -29,11 +29,3 @@
 </a>
 
 <div style="margin-bottom: 24px;"></div>
-
-<h3>Top Languages</h3>
-<div style="margin-bottom: 12px;"></div>
-
-<a href=" https://github.com/anuraghazra/github-readme-stats " target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjaju03&theme=dracula" alt="Top Languages" />
-</a>
-</div>
