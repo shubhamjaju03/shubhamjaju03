@@ -7,7 +7,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner8.gif" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner8.gif" width="30%" alt="Banner" />
 </p>
 
 ---
@@ -104,3 +104,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=120&section=footer&text=Made%20with%20❤️%20by%20Shubham%20Jaju&fontSize=20&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF" />
+</p>
+
+
