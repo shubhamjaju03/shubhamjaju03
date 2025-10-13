@@ -17,7 +17,6 @@
 <p align="center">
   🎓 <b>B.Tech in Information Technology</b><br>
   💡 Passionate about solving real-world problems through technology<br>
-  ⚡ Curious mind exploring Cloud, DevOps, and Full-Stack Systems<br>
   💬 Let’s connect and build something impactful!
 </p>
 
@@ -30,13 +29,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:sjaju589@gmail.com">
+  <a href="mailto:shubhamjaju03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/shubhamjaju03" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -64,7 +60,7 @@
 <h2 align="center">⚙️ Tech Universe</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,git,github,linux,aws,docker,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,github,mysql" />
 </p>
 
 ---
