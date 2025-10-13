@@ -1,6 +1,6 @@
 <!-- Animated Welcome Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2800&pause=200&color=00F0FF&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Shubham+Jaju;💻+Full+Stack+Developer+%7C+Tech+Enthusiast;🚀+Always+Learning+%7C+Always+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2800&pause=200&color=00F0FF&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Shubham+Jaju;💻+Developer+%7C+Tech+Enthusiast;🚀+Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </p>
 
 ---
