@@ -37,18 +37,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats (Total Commits Only)</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shubhamjaju03&hide=stars,prs,issues,contribs&show_icons=true&theme=tokyonight&hide_border=false&custom_title=Total%20Commits&text_bold=true" 
-    alt="GitHub Stats" 
-    height="180"
-  />
-</p>
-
----
-
 <h2 align="center">🔥 Contribution Graph</h2>
 
 <p align="center">
